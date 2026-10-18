@@ -4,6 +4,8 @@ A **single-file**, zero-dependency UI prototyping tool that turns your drag-and-
 
 Everything lives in one HTML file. No build step, no install, no server required.
 
+![Image](screenshot.png)
+
 ## Highlights
 
 - **Desktop interface** with a menu bar, toolbar, toolbox, canvas, and properties panel — fully in English and 9 other languages.
