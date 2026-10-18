@@ -4,6 +4,8 @@ A **single-file**, zero-dependency UI prototyping tool that turns your drag-and-
 
 Everything lives in one HTML file. No build step, no install, no server required.
 
+[Online experience]([https://www.example.com](https://lightlytech.github.io/UI-Designer-for-AI-Prompt-Generation/))
+
 ![Image](screenshot.png)
 
 ## Highlights
