@@ -6,7 +6,7 @@ Everything lives in one HTML file. No build step, no install, no server required
 
 ## Highlights
 
-- **Fluent-styled desktop interface** (WinUI-inspired) with a menu bar, toolbar, toolbox, canvas, and properties panel — fully in English and 9 other languages.
+- **Desktop interface** with a menu bar, toolbar, toolbox, canvas, and properties panel — fully in English and 9 other languages.
 - **Left toolbox** — 20 controls across 5 categories (Basic, Input, Display, Containers, Data): buttons, labels, links, text boxes, search boxes, checkboxes, radio buttons, toggles, sliders, combo boxes, date pickers, images, progress bars, badges, dividers, panels, cards, data grids, and list views.
 - **Center canvas** — drag controls from the toolbox, move them, resize them with 8 handles, snap to an 8 px grid, zoom from 25 % to 300 %, and toggle a grid overlay.
 - **Right properties panel** — edit name, text, position, size, font size, colors, corner radius, border, opacity, alignment, bold/italic, plus per-control properties (slider range, progress value, checked state, combo items, grid columns, image URL, …).
