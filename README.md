@@ -26,7 +26,7 @@ HTML + CSS + Vanilla JS · React (JSX) · React + Tailwind · Vue 3 · Angular �
 
 ## Usage
 
-1. Download [`AI-UI-Designer.html`](AI-UI-Designer.html).
+1. Download [`index.html`](index.html).
 2. Double-click it (or open it in any modern browser). That's it — no server or dependencies.
 3. Drag controls onto the canvas and arrange them.
 4. Pick a **Design style** and **Target framework** in the toolbar.
