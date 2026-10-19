@@ -4,7 +4,7 @@ A **single-file**, zero-dependency UI prototyping tool that turns your drag-and-
 
 Everything lives in one HTML file. No build step, no install, no server required.
 
-[![Get From Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9p8rw37p589d)
+![Get From Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9p8rw37p589d)
 
 [Online experience](https://lightlytech.github.io/UI-Designer-for-AI-Prompt-Generation/)
 
